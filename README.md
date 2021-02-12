@@ -6,14 +6,6 @@ consists of different audio-visual features derived from video shots that are co
 consisted of 150 hours of videos from 5 different news channels broadcasting news. The
 dataset consists of 205 functions and approximately 130,000 observations.
 
-### Problem:
-Our aim is to build a classifier to predict whether a given segment of audio/visual features
-from TV video stream data is a commercial or non-commercial. Automatic detection and
-extraction in telecast news videos of commercial blocks is an important pre-processing step in
-broadcast media analysis for competitive market analysis. News channel do not follow any
-presentation format, through this classifier we will generalize features across different news
-channels.
-
 ### Goals:
 To distinguish commercial segments from non- commercial ones using audio/video features
 extracted from content shown in the news channel. This could help news channels to
